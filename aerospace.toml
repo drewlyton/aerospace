@@ -53,7 +53,7 @@ preset = 'qwerty'
 #                 See:
 #                 https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
 [gaps]
-inner.horizontal = 4
+inner.horizontal = 8
 inner.vertical = 4
 outer.left = 4
 outer.bottom = 0
@@ -165,5 +165,5 @@ up = 'volume up'
 shift-down = ['volume set 0', 'mode main']
 
 [workspace-to-monitor-force-assignment]
-  0 = '^built-in retina display$'
-  9 = 'displaylink'
+0 = '^built-in retina display$'
+9 = 'displaylink'
